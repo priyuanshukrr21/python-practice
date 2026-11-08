@@ -1,0 +1,15 @@
+name = "Priyanshu"
+age = 20
+
+print("Name:", name)
+print("Age:", age)
+
+
+x = 100
+name = "Python"
+
+print(type(x))
+print(type(name))
+
+print(id(x))
+print(id(name))
